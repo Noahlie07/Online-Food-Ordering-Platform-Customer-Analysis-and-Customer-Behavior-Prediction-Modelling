@@ -18,4 +18,4 @@ This project is structured around three core components:
 Skills: R programming language, ggplot2/tidyverse/common libraries used for tidying data and creating graphs, Machine Learning
 
 ## Accessing The Project
-Open "OnlineFoodOrdering.R" to take a look at the code involved for this project. "Online Food Ordering Project.Rmd" is an R markdown file documenting the project, it includes rundown of the code involved int he project and conclusions derived from the results of the project.
+Open "OnlineFoodOrdering.R" to take a look at the code involved for this project. "Online Food Ordering Project.Rmd" is an R markdown file documenting the project, it includes rundown of the code involved int he project and conclusions derived from the results of the project. "Online Food Ordering Project Presentation.pdf" is a presentation in pdf that documents the project in a more simplified way. I recommend looking at the code itself, or reading the R markdown file, to get a more comprehensive view of this project.
